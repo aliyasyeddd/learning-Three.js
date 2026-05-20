@@ -30,7 +30,7 @@ function App() {
     canvas: canvas,
   });
   renderer.setSize(sizes.width, sizes.height);
-  renderer.render(scene, camera); // Have to render both or else you're cooked
+  renderer.render(scene, camera); // Have to render both 
 
   return (
     <>
