@@ -1,2 +1,1 @@
-# learning-Three.js
-Learning Three.js
+## Learning Three js
